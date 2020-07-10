@@ -1,16 +1,24 @@
-# utoh_app
+# UT Office Hours Application
 
-A new Flutter project.
+An application that streamlines office hours and connectivity between professors and students.
+
+CORE FEATURES (In Construction):
+
+- Estimated Wait Times (Based on a machine learning algorithm)
+- Estimated Time of Arrival (Based on Students Location)
+- Organized Lines with Live Updating
+- (More coming soon.....)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Welcome! My name is Omeed Tehrani and I am currently the creator of this application. 
+The current development documentation we use is created by Google, and it is known 
+as flutter. 
 
-A few resources to get you started if this is your first Flutter project:
+Here are a few resources to get you started if this is your first time with Flutter:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- https://flutter.dev
+- https://flutter.dev/docs
+- https://www.youtube.com/watch?v=l-YO9CmaSUM
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+These links will be useful in getting tutorials, samples, guidance on mobile development, and a full API reference.
